@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="attempt to fix #1">
+    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="attempt to fix #2 (os.html)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/os.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/os.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/container.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/container.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datacloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacloud.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604575333442</updated>
       <workItem from="1604575334514" duration="8224000" />
-      <workItem from="1604691523054" duration="932000" />
+      <workItem from="1604691523054" duration="1672000" />
+      <workItem from="1604697777770" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="established connection between files">
       <created>1604690868122</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604692018648</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="attempt to fix #2 (os.html)">
+      <created>1604692576977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604692576977</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,17 +116,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="established connection between files" />
     <MESSAGE value="attempt to fix #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="attempt to fix #1" />
+    <MESSAGE value="attempt to fix #2 (os.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempt to fix #2 (os.html)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="182" key="#Deployment" timestamp="1604691540089">
+    <state x="1032" y="182" key="#Deployment" timestamp="1604697827321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604691540089" />
+    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604697827321" />
     <state x="1016" y="169" key="#SSH_Configurations" timestamp="1604617689297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -137,14 +149,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604685222438" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604692034876">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604692591632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604692034876" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604692026657">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604692591632" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604692585709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604692026657" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604692585709" />
     <state x="756" y="258" key="webDeployment.PermissionsDialog.Tabs" timestamp="1604691303597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
