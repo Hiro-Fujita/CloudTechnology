@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="" />
+    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/container.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/container.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datacloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacloud.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/os.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/os.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1jrw5HQ0qxlzsc2YekmgVpOhejc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,18 +55,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604575333442</updated>
-      <workItem from="1604575334514" duration="4621000" />
+      <workItem from="1604575334514" duration="7515000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="182" key="#Deployment" timestamp="1604685043213">
+    <state x="1032" y="182" key="#Deployment" timestamp="1604685875738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604685043213" />
+    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604685875738" />
     <state x="1016" y="169" key="#SSH_Configurations" timestamp="1604617689297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -59,5 +78,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1209" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604684552071" />
+    <state x="1298" y="421" key="Github.ShareDialog" timestamp="1604685209662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1298" y="421" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604685209662" />
+    <state x="1229" y="228" key="Github.UntrackedFilesDialog" timestamp="1604685222438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1229" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604685222438" />
   </component>
 </project>
