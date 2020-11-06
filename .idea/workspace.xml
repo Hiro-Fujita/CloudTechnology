@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="established connection between files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/container.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/container.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/datacloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacloud.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/os.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/os.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
     </list>
@@ -55,21 +52,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604575333442</updated>
-      <workItem from="1604575334514" duration="7515000" />
+      <workItem from="1604575334514" duration="8224000" />
+      <workItem from="1604691523054" duration="352000" />
     </task>
+    <task id="LOCAL-00001" summary="established connection between files">
+      <created>1604690868122</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604690868123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="established connection between files" />
+    <option name="LAST_COMMIT_MESSAGE" value="established connection between files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="182" key="#Deployment" timestamp="1604685875738">
+    <state x="1032" y="182" key="#Deployment" timestamp="1604691540089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604685875738" />
+    <state x="1032" y="182" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1604691540089" />
     <state x="1016" y="169" key="#SSH_Configurations" timestamp="1604617689297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -86,5 +93,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604685222438" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604691405689">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604691405689" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604691260645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604691260645" />
+    <state x="756" y="258" key="webDeployment.PermissionsDialog.Tabs" timestamp="1604691303597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="258" key="webDeployment.PermissionsDialog.Tabs/0.0.1920.1040@0.0.1920.1040" timestamp="1604691303597" />
   </component>
 </project>
