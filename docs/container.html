@@ -48,8 +48,9 @@
         <div class="col-8">
             <h1>Kubernetes and Docker</h1>
             <p>
-                Domain Name System: associates names like www.example.com with the corresponding addresses, your computer uses the DNS to look up domain names and get the associated IP address which is used to connect your computer to the destination on the internet. DNS Servers are connected in a distributed hierarchy to avoid request-traffic on one server. DNS was created to be an open public communication protocol for governments and education institutions. But this means that it is susceptible to cyber attacks.
+                Docker is a standalone software that can be installed on any computer to run containerized applications. Docker is what enables us to run, create and manage containers on a single operating system. If you have Docker installed on a bunch of hosts (different operating systems), you can leverage Kubernetes. These nodes, or Docker hosts, can be bare-metal servers or virtual machines. Kubernetes can then allow you to automate container provisioning, networking, load-balancing, security and scaling across all these nodes from a single command line or dashboard. A collection of nodes that is managed by a single Kubernetes instance is referred to as a Kubernetes cluster. Kubernetes automates the process of scaling, managing, updating and removing containers. In other words, it is a container orchestration platform. While Docker is at the heart of the containerization, it enables you to have containers in the first place.
             </p>
+                In principle, Kubernetes can work with any containerization technology. Two of the most popular options that Kubernetes can integrate with are rkt and Docker. However, Docker has the most mindshare, which has led to much more effort in perfecting the integration between it and Kubernetes more than any other containerization technology.
             <div class="image">
                 <img src="../images/DNS.jpg" alt="">
             </div>
