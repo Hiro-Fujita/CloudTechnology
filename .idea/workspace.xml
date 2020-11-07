@@ -19,19 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="added texts">
-      <change afterPath="$PROJECT_DIR$/images/cloud.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/datacenter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kubernetes-docker.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/njit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/os.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/repository.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/container.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/container.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datacloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacloud.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/os.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/os.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
+    <list default="true" id="d4e5a10b-6e0f-41d2-95df-c2e152418ce0" name="Default Changelist" comment="added images">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +79,7 @@
       <updated>1604575333442</updated>
       <workItem from="1604575334514" duration="8224000" />
       <workItem from="1604691523054" duration="1672000" />
-      <workItem from="1604697777770" duration="9122000" />
+      <workItem from="1604697777770" duration="9469000" />
     </task>
     <task id="LOCAL-00001" summary="established connection between files">
       <created>1604690868122</created>
@@ -133,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604712625174</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added images">
+      <created>1604716950195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604716950195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +155,8 @@
     <MESSAGE value="attempt to fix #3 FIXED" />
     <MESSAGE value="testing os.html" />
     <MESSAGE value="added texts" />
-    <option name="LAST_COMMIT_MESSAGE" value="added texts" />
+    <MESSAGE value="added images" />
+    <option name="LAST_COMMIT_MESSAGE" value="added images" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="182" key="#Deployment" timestamp="1604700620112">
@@ -189,14 +187,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1229" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604685222438" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604700208608">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604716958711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604700208608" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604700210819">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604716958711" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604716955788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604700210819" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604716955788" />
     <state x="756" y="258" key="webDeployment.PermissionsDialog.Tabs" timestamp="1604691303597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
